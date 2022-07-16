@@ -198,6 +198,7 @@ function changeToAnsari() {
 .crew-bio {
     width: 80%;
     font-size: 18px;
+    margin: 0;
     font-family: 'Barlow', sans-serif;
     color: var(--letter-color2);
     line-height: 32px;

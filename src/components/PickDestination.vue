@@ -176,7 +176,6 @@ function changeToTitan() {
     height: 90%;
     display: flex;
     flex-direction: column;
-    gap: 15px;
 }
 .intro-title {
     font-family: var(--barlow-condensed-regular);
