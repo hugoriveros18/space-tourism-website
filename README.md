@@ -38,7 +38,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Space-Tourism-Website](https://hugoriveros18.github.io/time-tracking-dashboard/)
+- Live Site URL: [Space-Tourism-Website](https://hugoriveros18.github.io/space-tourism-website/)
 
 ## My process
 
