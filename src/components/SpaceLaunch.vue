@@ -267,6 +267,7 @@ function changeToCapsule() {
     .space-information-container {
         width: 458px;
         margin: 0 auto;
+        padding: 0;
         align-items: center;
     }
     .terminology {
