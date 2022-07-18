@@ -213,7 +213,7 @@ body {
   z-index: 1;   
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 820px) {
   .main-page-container {
     background-image: url(./assets/home/background-home-tablet.jpg);
   }
@@ -256,7 +256,7 @@ body {
   }  
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 415px) {
   .main-page-container {
     background-image: url("./assets/home/background-home-mobile.jpg")
   }

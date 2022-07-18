@@ -231,7 +231,7 @@ function changeToCapsule() {
     padding: 20px 0 0 0;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 820px) {
     .tech-container {
         position: static;
         height: 100%;
@@ -293,12 +293,12 @@ function changeToCapsule() {
         width: 100%;
         flex-direction: row;
         position: absolute;
-        bottom: 378px;
+        top: 586px;
     }    
 }
 
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 415px) {
     .intro-title {
         margin: 88px 0 0 0;
         padding: 0;

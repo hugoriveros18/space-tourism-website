@@ -275,7 +275,7 @@ function changeToTitan() {
     margin: 0;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 820px) {
     .destination-card-container {
         width: 100%;
     }
@@ -323,11 +323,11 @@ function changeToTitan() {
     }
     .details-container {
         position: absolute;
-        bottom: 62px;
+        top: 872px;
         width: 573px;
         justify-content: center;
         gap: 70px;
-        margin: 49px 0 0 0;
+        margin: 0;
         padding: 28px 0 0 0;
         border-top: solid 1px #383B4B;
     }
@@ -336,7 +336,7 @@ function changeToTitan() {
     }
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 415px) {
     .pick-destination-container {
         padding: 88px 0 0 0;
     }

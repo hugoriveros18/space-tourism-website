@@ -203,7 +203,7 @@ function closeMobileMenu() {
 }
 
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 820px) {
   .general-container {
     height: 96px;
     padding: 0 0 0 4.5vw;
@@ -226,7 +226,7 @@ function closeMobileMenu() {
     display: none;
   }  
 }
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 415px) {
   .mobile-menu-container {
     position: absolute;
     width: 254px;

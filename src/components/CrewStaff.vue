@@ -251,7 +251,7 @@ function changeToAnsari() {
     background-image: url("../assets/crew/image-anousheh-ansari.webp");
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 820px) {
     .crew-container {
         position: static;
         height: 100%;
@@ -302,7 +302,7 @@ function changeToAnsari() {
     .crew-buttons-container {
         justify-content: center;
         gap: 16px;
-        bottom: 572px;
+        top: 442px;
         margin: 0;
     }
     .crew-button {
@@ -311,14 +311,14 @@ function changeToAnsari() {
     }
     .crew-picture-information {
         margin: 80px 0 0 0;
-        width: 456px;
+        width: 100%;
     }
     .backgroundMark {
         position: static;
     }
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 415px) {
     .crew-card-container {
         flex-direction: column-reverse;
         justify-content: flex-end;
