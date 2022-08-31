@@ -26,15 +26,15 @@ Users should be able to:
 
 ***Mobile***
 
-<img src="./preview-images/mobile.png" width="800" height="500" /> 
+<img src="./preview-images/mobile.png" width="800" /> 
 
 ***Tablet***
 
-<img src="./preview-images/tablet.png" width="800" height="500" /> 
+<img src="./preview-images/tablet.png" width="800" /> 
 
 ***Desktop***
 
-<img src="./preview-images/desktop.png" width="800" height="500" /> 
+<img src="./preview-images/desktop.png" width="800" /> 
 
 ### Links
 
