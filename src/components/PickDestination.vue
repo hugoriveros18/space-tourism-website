@@ -384,6 +384,7 @@ function changeToTitan() {
         margin: 32px 0 28px 0;
         padding: 32px 0 0 0;
         width: 327px;
+        position: static;
     }
     
 }
