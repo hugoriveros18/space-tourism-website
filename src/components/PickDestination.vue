@@ -16,7 +16,9 @@
                         <button class="planet-button" :class="buttonStyleTitan" @click="changeToTitan">TITAN</button>
                     </div>
                     <p class="planet-title">{{ actualPlanet }}</p>
-                    <p class="planet-information">{{ planetDescription }}</p>
+                    <div class="planet-information-container">
+                        <p class="planet-information">{{ planetDescription }}</p>
+                    </div>
                     <div class="details-container">
                         <div class="details-inside-container">
                             <p class="main-title">AVG. DISTANCE</p>
@@ -370,6 +372,10 @@ function changeToTitan() {
         margin: 20px 0 0 0;
         font-size: 56px;
         line-height: 64.18px;
+    }
+    .planet-information-container{
+        width: 327px;
+        height: 128px;
     }
     .planet-information {
         width: 327px;
